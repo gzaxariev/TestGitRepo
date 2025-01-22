@@ -1,4 +1,2 @@
 # TestGitRepo
-You are in my test branch.
-changed.
-!!!!!!!!!!!
+You are in my app.
