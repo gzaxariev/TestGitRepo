@@ -1,2 +1,2 @@
 # TestGitRepo
-You are in my app.
+You are in my test project :)
