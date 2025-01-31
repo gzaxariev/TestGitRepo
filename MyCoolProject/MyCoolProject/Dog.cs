@@ -7,22 +7,7 @@ namespace MyCoolProject
     class Dog
     {
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    //
     
     }
 }
