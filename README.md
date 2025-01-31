@@ -11,6 +11,4 @@ this is fix to this.
 
 OK!
 
-This is my last development.  
-=======
->>>>>>> develop
+This is my last development.
