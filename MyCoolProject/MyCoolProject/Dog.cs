@@ -6,5 +6,8 @@ namespace MyCoolProject
 {
     class Dog
     {
+    
+    //
+    
     }
 }
