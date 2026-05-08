@@ -5,6 +5,17 @@ using System.Text;
 namespace MyCoolProject
 {
     class Dog
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
     }
 }
